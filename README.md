@@ -14,7 +14,6 @@ This project analyzes global unemployment trends across countries and regions fr
 4. Compare unemployment trends across years (2014–2024).
 5. Visualize findings through clear, interpretable charts.
 
-</details>
 
 ## Key insights
 Here are three key policy recommendations based on the analysis of global unemployment trends:
