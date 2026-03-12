@@ -4,7 +4,7 @@
 
 This project analyzes global unemployment trends across countries and regions from 2014 to 2024. Using structured datasets, the analysis highlights variations in unemployment rates by demographics (age, gender), geography, and time. The notebook combines data cleaning, exploratory analysis, and visualization to uncover meaningful insights.
 
-## Objectives
+<summary> Objectives</summary>
 
 1. Clean and preprocess global unemployment datasets.
 2. Explore unemployment patterns by country, region, sex, and age group.
