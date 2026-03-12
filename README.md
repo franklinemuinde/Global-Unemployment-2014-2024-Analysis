@@ -12,44 +12,6 @@ This project analyzes global unemployment trends across countries and regions fr
 4. Compare unemployment trends across years (2014–2024).
 5. Visualize findings through clear, interpretable charts.
 
-## Dataset
-
-Source: Global unemployment dataset (2014–2024).
-
-Features include:
-
-country_name
-
-region
-
-sex
-
-age_group / age_categories
-
-Global unemployment rates (2014–2024).
-
-## Methodology
-
-### Data Cleaning
-
-1. Removed duplicate header rows.
-2. Handled missing values (e.g., Ukraine’s incomplete data).
-3. Standardized column names for analysis.
-
-### Exploratory Data Analysis (EDA)
-
-1. Calculated average unemployment by country, year, and region.
-2. Segmented data by gender and age categories.
-3. Ranked countries based on unemployment performance.
-
-### Visualization
-
-Trend plots (2014–2024).
-
-Regional comparisons.
-
-Top/bottom 5 countries by unemployment rate.
-
 ## Key insights
 Here are three key policy recommendations based on the analysis of global unemployment trends:
 
@@ -72,11 +34,9 @@ Libraries: pandas, numpy, matplotlib, seaborn, sqlite3, ipython-sql
 
 ## Outputs
 
-Cleaned unemployment dataset ready for further research.
-
-Statistical summaries and visual insights.
-
-SQL-based queries for reproducible data exploration.
+1. Cleaned unemployment dataset ready for further research.
+2. Statistical summaries and visual insights.
+3. SQL-based queries for reproducible data exploration.
 
 ## Related Links
 Link to [dataset](https://www.kaggle.com/datasets/sazidthe1/global-unemployment-data)
