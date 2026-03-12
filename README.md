@@ -4,7 +4,7 @@
 
 This project analyzes global unemployment trends across countries and regions from 2014 to 2024. Using structured datasets, the analysis highlights variations in unemployment rates by demographics (age, gender), geography, and time. The notebook combines data cleaning, exploratory analysis, and visualization to uncover meaningful insights.
 
-</details>
+<details>
   
 ## Objectives
 
@@ -13,6 +13,8 @@ This project analyzes global unemployment trends across countries and regions fr
 3. Identify countries with the highest and lowest unemployment rates.
 4. Compare unemployment trends across years (2014–2024).
 5. Visualize findings through clear, interpretable charts.
+
+</details>
 
 ## Key insights
 Here are three key policy recommendations based on the analysis of global unemployment trends:
